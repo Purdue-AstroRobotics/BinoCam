@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/b8e127a4-58ce-40ec-977f-ccd84dfac169)
 
 # Binocular Camera Debris Detection System
 
